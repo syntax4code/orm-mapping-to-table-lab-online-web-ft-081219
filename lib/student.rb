@@ -41,7 +41,7 @@ class Student
       def self.create_table
           student = Student.new("Josh", "9th")
           student.save
-          
+
         end
 
 
